@@ -5,8 +5,6 @@ programma termina quando uno dei due valori o entrambi sono uguali a zero.*/
 
 #include <stdio.h>
 
-#include <stdio.h>
-
 int main(){
     int n1, n2;
     double rapporto;
