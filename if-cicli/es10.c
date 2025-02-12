@@ -1,10 +1,10 @@
-/*Una birreria a fine serata deve conteggiare líincasso. La cassiera accende il software gestionale il quale le chiede di inserire una alla volta le consumazioni servite.
+/*Una birreria a fine serata deve conteggiare l‚Äôincasso. La cassiera accende il software gestionale il quale le chiede di inserire una alla volta le consumazioni servite.
 Le consumazioni si dividono in bevande e ristorazione. La cassiera per ogni consumazione deve inserire la tipologia di consumazione e il suo importo.
 
-Quando la cassiera inserisce la stringa ìesciî il software deve mostrare a video le seguenti informazioni:
-1.	La media dellíincasso delle bevande 
-2.	La media dellíincasso della ristorazione
-3.	Deve indicare se sono state vendute pi˘ bevande o pi˘ ristorazioni*/
+Quando la cassiera inserisce la stringa ‚Äúesci‚Äù il software deve mostrare a video le seguenti informazioni:
+1.	La media dell‚Äôincasso delle bevande 
+2.	La media dell‚Äôincasso della ristorazione
+3.	Deve indicare se sono state vendute pi√π bevande o pi√π ristorazioni*/
 
 #include <stdio.h>
 
