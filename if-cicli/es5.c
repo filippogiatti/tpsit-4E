@@ -1,9 +1,9 @@
 /*Progettare un algoritmo che effettui le seguenti operazioni:
 
-• continui a leggere da tastiera una serie di terne di valori interi A ,
-B e C finchè non vengono inseriti dei valori tali per cui A + B < C
-• conteggi il numero di volte in cui la differenza tra A e B è pari, dispari, e quando è nulla
-• prima di terminare, visualizzi il valore dei valori conteggiati*/
+â€¢ continui a leggere da tastiera una serie di terne di valori interi A ,
+B e C finchÃ¨ non vengono inseriti dei valori tali per cui A + B < C
+â€¢ conteggi il numero di volte in cui la differenza tra A e B Ã¨ pari, dispari, e quando Ã¨ nulla
+â€¢ prima di terminare, visualizzi il valore dei valori conteggiati*/
 
 #include <stdio.h>
 
